@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Animesh Kalita</h1>
 <h3 align="center">An Aspiring Full Stack developer from India</h3>
- <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F10061368-Computer-Virus&psig=AOvVaw16Xdqr-rfnTE61ma2JP5L6&ust=1667670029389000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDCko-JlfsCFQAAAAAdAAAAABAE" alt="">
+ <img align="right" src="https://media1.giphy.com/media/f9k1tV7HyORcngKF8v/200w.gif" alt="" width="300px">
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ak-nut-47/sites](https://app.netlify.com/teams/ak-nut-47/sites)
