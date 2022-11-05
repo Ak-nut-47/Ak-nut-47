@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **animesh.kalita22@gmail.com**
 
-<h1>Currently A Student Of U+1F447</h1>
+<h3 style="color: teal ;">Currently A Student Of 👇🏼</h3>
 <img src="https://www.masaischool.com/img/navbar/logo.svg" alt="">
 
 <h3 align="left">Connect with me:</h3>
