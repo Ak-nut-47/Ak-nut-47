@@ -7,9 +7,12 @@
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/ak-nut-47/sites](https://app.netlify.com/teams/ak-nut-47/sites)
 
 - 📫 How to reach me **animesh.kalita22@gmail.com**
-- linkedin ****
-<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/">Linkedin</a>
+
+<h1>Currently A Student Of U+1F447</h1>
+<img src="https://www.masaischool.com/img/navbar/logo.svg" alt="">
+
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/">Linkedin</a>
 <p align="left">
 </p>
 
