@@ -1,6 +1,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]
 <h1 align="center">Hi 👋, I'm Animesh Kalita</h1>
 <h3 align="center">An Aspiring Full Stack developer from India</h3>
+<a href="https://app.daily.dev/AnimeshKalita"><img src="https://api.daily.dev/devcards/5c8f634bf6c8479f9331f6f10148fa38.png?r=ack" width="400" alt="Animesh Kalita's Dev Card"/></a>
  <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" width="250px">
 - 🌱 I’m currently learning **Full Stack Web Development**
 
