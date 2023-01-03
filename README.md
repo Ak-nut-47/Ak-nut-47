@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/">Linkedin</a>
+<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png"></a>
 <a href="https://app.daily.dev/AnimeshKalita"><img src="https://api.daily.dev/devcards/5c8f634bf6c8479f9331f6f10148fa38.png?r=ack" width="200" alt="Animesh Kalita's Dev Card"/></a>
 <p align="left">
 </p>
