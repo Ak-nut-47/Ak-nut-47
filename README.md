@@ -3,4 +3,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/animesh-kalita-3501b478/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail)](mailto:animesh.kalita22@gmail.com)
 
+[![All My Projects](https://img.shields.io/badge/All_My_Projects-Found_Here-brightgreen?style=for-the-badge&logo=github)](https://ak-nut-47.github.io/)
 https://ak-nut-47.github.io/
