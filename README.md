@@ -1,25 +1,25 @@
+![logo](https://github.com/Ak-nut-47/Ak-nut-47/assets/104593018/56138561-f042-4a4f-9ae1-5599c1a6a02f)
+
 <h1 align="center">Hi 👋, I'm Animesh Kalita</h1>
 <h3 align="center">A passionate MERN developer from Tezpur,India</h3>
-
-<img align="right" alt="readmeimg" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-nut-47&label=Profile%20views&color=0e75b6&style=flat" alt="ak-nut-47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-nut-47" alt="ak-nut-47" /></a> </p>
-
+<img align="right" alt="readmeimg" width="300" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 - 🔭 I’m currently working on [Virgin Trails](https://github.com/Ak-nut-47/Virgin_Trails)
 
 - 🌱 I’m currently learning **SVG's**
 
 - 👨‍💻 All of my projects are available at [https://ak-nut-47.github.io/](https://ak-nut-47.github.io/)
 
-- 📫 How to reach me **animesh.kalita22@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1iyMsm1_oPvMdpdoD_4pi8J1oELLerkh4](https://drive.google.com/uc?export=download&id=1iyMsm1_oPvMdpdoD_4pi8J1oELLerkh4)
+- 📫 How to reach me -  **animesh.kalita22@gmail.com**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=github)](https://ak-nut-47.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/animesh-kalita-3501b478/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail)](mailto:animesh.kalita22@gmail.com)
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-nut-47&label=Profile%20views&color=0e75b6&style=flat" alt="ak-nut-47" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak-nut-47" alt="ak-nut-47" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
