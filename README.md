@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/animesh-kalita-3501b478/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/" height="30" width="40" /></a>
 </p>
 <p align="left">
   <a href="mailto:animesh.kalita22@gmail.com" style="background-color: #D44638; color: #FFFFFF; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
