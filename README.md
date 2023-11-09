@@ -46,15 +46,13 @@
 
 | **Frontend**             | **Backend**             | **Testing**             | **Others**             |
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| ![CSS3][css3]            | ![Express][express]     | ![Jest][jest]           | ![Figma][figma]         |
-| ![HTML5][html5]          | ![Node.js][nodejs]      | ![Cypress][cypress]     | ![Framer][framer]       |
-| ![React][react]          | ![MongoDB][mongodb]     |                         | ![Git][git]             |
-| ![Redux][redux]          |                         |                         | ![Postman][postman]     |
-| ![Javascript][javascript]|                         |                         | ![Photoshop][photoshop] |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" alt="CSS3" width="60">            | <img src="https://media.licdn.com/dms/image/D5612AQGDoyo0FeCniw/article-cover_image-shrink_720_1280/0/1691585795722?e=2147483647&v=beta&t=rd1TLamS7FFyUnHToGWRB4nS1mEOw7dZ_SrRHihCBdo" alt="Express JS" width="60">      | ![Jest][jest]           | ![Figma][figma]         |
+|  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9v00g4XP1X0sFzxp64FIBSIgchtoRkAZSj_fjzq75u16gd3RcOmWYHJazTTHc6WSt30&usqp=CAU" alt="CSS3" width="70">            | <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node JS" width="60">       | <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="Cypress" width="60">     | ![Framer][framer]       |
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="CSS3" width="60">          | <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" alt="Mongo DB" width="70">  |                         | ![Git][git]             |
+| <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="CSS3" width="70">       |                         |                         | ![Postman][postman]     |
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="CSS3" width="60">  |                         |                         | ![Photoshop][photoshop] |
 
-[css3]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
-[html5]: https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg
-[react]: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+
 [redux]: https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg
 [express]: https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg
 [nodejs]: https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
