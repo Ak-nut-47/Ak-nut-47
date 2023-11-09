@@ -2,6 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Animesh Kalita</h1>
 <h3 align="center">A passionate MERN developer from Tezpur,India</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/" height="30" width="40" /></a>
+</p>
+<p align="left">
+  <a href="mailto:animesh.kalita22@gmail.com" style="background-color: #D44638; color: #FFFFFF; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail" style="vertical-align: middle; margin-right: 5px;">
+  
+  </a>
+</p>
+
+
+<p align="left">
+<a href="https://ak-nut-47.github.io/" target="blank"><img align="center" src="https://media.istockphoto.com/id/1307651181/th/%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A7%E0%B9%88%E0%B8%B2-portfolio-%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99.jpg?s=170667a&w=0&k=20&c=TnKxvBHXZ3AYwKvCEKnTWOKOEoGknsR7CIAMmcaHDDA=" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/"  width="120" /></a>
+</p>
+
+<hr style="border: 2px solid teal;">
+
 <p>All of my projects are available at <a href="https://Ak-nut-47.github.io/" target="_blank" rel="noopener noreferrer">https://ak-nut-47.github.io/</a></p>
 
 <p align="center">
@@ -22,23 +40,7 @@
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1iyMsm1_oPvMdpdoD_4pi8J1oELLerkh4](https://drive.google.com/uc?export=download&id=1iyMsm1_oPvMdpdoD_4pi8J1oELLerkh4)
 <hr style="border: 2px solid red;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/animesh-kalita-3501b478/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/" height="30" width="40" /></a>
-</p>
-<p align="left">
-  <a href="mailto:animesh.kalita22@gmail.com" style="background-color: #D44638; color: #FFFFFF; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" alt="Gmail" style="vertical-align: middle; margin-right: 5px;">
-  
-  </a>
-</p>
 
-
-<p align="left">
-<a href="https://ak-nut-47.github.io/" target="blank"><img align="center" src="https://media.istockphoto.com/id/1307651181/th/%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A7%E0%B9%88%E0%B8%B2-portfolio-%E0%B8%9A%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99.jpg?s=170667a&w=0&k=20&c=TnKxvBHXZ3AYwKvCEKnTWOKOEoGknsR7CIAMmcaHDDA=" alt="https://www.linkedin.com/in/animesh-kalita-3501b478/"  width="120" /></a>
-</p>
-
-<hr style="border: 2px solid teal;">
 
 <h3 align="left">Languages and Tools:</h3>
 
